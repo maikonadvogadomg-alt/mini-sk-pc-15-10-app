@@ -1,6 +1,6 @@
 # 📋 Plano do projeto: mini-sk-pc-15-10
 
-_Gerado em 15/10/2026, 16:52:15 — sem IA, lendo os arquivos._
+_Gerado em 15/10/2026, 17:11:43 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
